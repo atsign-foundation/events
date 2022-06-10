@@ -2,11 +2,11 @@
 
 # README.MD
 
-The marketing repo is used for sprint planning and projects that come from our sprint plans
+The events repo is used for sprint planning and projects that come from our sprint plans
 
 ## Who is this for?
 
-This repo is for marketing projects and issues 
+This repo is for event projects and issues 
 
 ### Code user
 
