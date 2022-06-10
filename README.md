@@ -1,6 +1,6 @@
 <img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
 
-# README.MD
+# Events README.MD
 
 The events repo is used for sprint planning and projects that come from our sprint plans
 
