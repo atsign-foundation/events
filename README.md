@@ -1,13 +1,12 @@
 <img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
 
-# Sample README
+# README.MD
 
-Open with intent - we welcome contributions - we want pull requests and to hear about issues.
+The marketing repo is used for sprint planning and projects that come from our sprint plans
 
 ## Who is this for?
 
-The README should be addressed to somebody who's never seen this before.
-But also don't assume that they're a novice.
+This repo is for marketing projects and issues 
 
 ### Code user
 
