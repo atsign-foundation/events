@@ -2,71 +2,26 @@
 
 # Events README.MD
 
-The events repo is used for sprint planning and projects that come from our sprint plans
+The atSign events repo is used for sprint planning our events and any event projects that come from our sprint plans.
 
 ## Who is this for?
 
-This repo is for event projects and issues 
-
-### Code user
-
-Does this repo publish to [pub.dev](https://pub.dev) or similar?
-In which case the code user just needs a pointer there - e.g. [at_client on pub.dev](https://pub.dev/packages/at_client)
-
-### Contributor
-
-This is the person who we want working with us here.
-[CONTRIBUTING.md](CONTRIBUTING.md) is going to have the detailed guidance on how to setup their tools,
-tests and how to make a pull request.
+This repo is for atSign contributors who participate in atSign and partner events.
 
 ## Why, What, How?
 
 ### Why?
 
-What is the purpose of this project?
+The purpose of this repo is to manage atSign and partner events in a Github repository, which we sprint plan on every other week.
 
 ### What?
 
-What is needed to get the project and its dependencies installed?
+This repo provides visiblity to our all our events and a central place to manage as we sprint through each sprint plan.
 
 ### How?
 
-How does this work? How is this used to fulfil its intended purpose?
-
-## Checklist
-
-### Writing
-
-Does the writing flow, with proper grammar and correct spelling?
-
-### Links
-
-Are the links to external resources correct?
-Are the links to other parts of the project correct
-(beware stuff carried over from previous repos where the
-project might have lived during earlier development)?
-
-### Description
-
-Has the Description field been filled out?
-
-### Acknowledgement/Attribution
-
-Have we correctly acknowledged the work of others (and their Trademarks etc.)
-where appropriate (per the conditions of their LICENSE?
-
-### LICENSE
-
-Which LICENSE are we using?  
-Is the LICENSE(.md) file present?  
-Does it have the correct dates, legal entities etc.?
+We track progress through checklists contained in each task, as well as provide status of each event.
 
 ## Maintainers
-
-Who created this?  
-
-Do they have complete GitHub profiles?  
-
-How can they be contacted?  
-
-Who is going to respond to pull requests?  
+ 
+Kim Santy maintains this repo, I can be contacted through my Github profile ksanty.  Anyone can respond to pull requests, but feel free to contact me directly.
