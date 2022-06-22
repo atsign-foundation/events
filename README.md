@@ -16,7 +16,7 @@ The purpose of this repo is to manage atSign and partner events in a Github repo
 
 ### What?
 
-This repo provides visiblity to our all our events and a central place to manage as we sprint through each sprint plan.
+This repo provides visiblity to our all our events and a central place to manage as we execute through each sprint plan.
 
 ### How?
 
