@@ -24,4 +24,4 @@ We track progress through checklists contained in each task, as well as provide 
 
 ## Maintainers
  
-Kim Santy maintains this repo, I can be contacted through my Github profile ksanty.  Anyone can respond to pull requests, but feel free to contact me directly.
+Kim Santy maintains this repo, I can be contacted through my Github profile [ksanty](https://github.com/ksanty).  Anyone can respond to pull requests, but feel free to contact me directly.
