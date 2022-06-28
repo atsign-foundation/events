@@ -2,11 +2,11 @@
 
 # Events README.MD
 
-The atSign events repo is used for sprint planning our events and any event projects that come from our sprint plans.
+The Atsign events repo is used for sprint planning our events and any event projects that come from our sprint plans.
 
-This repo is for atSign contributors who participate in atSign and partner events.
+This repo is for Atsign contributors who participate in Atsign and partner events.
 
-The purpose of this repo is to manage atSign and partner events in a Github repository, which we sprint plan on every other week.
+The purpose of this repo is to manage Atsign and partner events in a Github repository, which we sprint plan on every other week.
 
 This repo provides visiblity to our all our events and a central place to manage as we execute through each sprint plan.
 
